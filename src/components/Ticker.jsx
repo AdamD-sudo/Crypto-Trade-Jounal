@@ -1,5 +1,4 @@
-// src/components/Ticker.jsx
-import { useEffect, useRef, useState } from "react";
+import React, { useEffect, useState } from "react";
 
 export default function Ticker() {
   const [data, setData] = useState({});
