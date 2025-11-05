@@ -1,70 +1,86 @@
 import React, { useEffect, useState } from "react";
 
-export default function Ticker() {
-  const [data, setData] = useState({});
-  const [status, setStatus] = useState("loading");
-  const timer = useRef(null);
-
-  async function load() {
-    try {
-      const r = await fetch("/api/prices", { cache: "no-store" });
-      if (!r.ok) throw new Error(`HTTP ${r.status}`);
-      const j = await r.json();
-      setData(j.prices || {});
-      setStatus("ready");
-    } catch (e) {
-      console.error("Ticker fetch failed:", e);
-      setStatus((s) => (Object.keys(data).length ? "ready" : "error"));
-    }
-  }
+function usePrices() {
+  const [prices, setPrices] = useState(null);
 
   useEffect(() => {
-    load(); // first fetch
-    timer.current = setInterval(() => {
-      if (document.visibilityState === "visible") load();
-    }, 60_000); // poll every 60s (be nice to CoinGecko)
-    return () => clearInterval(timer.current);
+    let alive = true;
+    const load = async () => {
+      try {
+        const r = await fetch("/api/prices", { cache: "no-store" });
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        const j = await r.json();
+        if (alive) setPrices(j?.prices || null);
+      } catch (e) {
+        console.error("[Ticker] price fetch failed:", e);
+      }
+    };
+    load();
+    const id = setInterval(load, 60000);
+    return () => {
+      alive = false;
+      clearInterval(id);
+    };
   }, []);
 
-  if (status === "loading") return <div className="text-sm opacity-60">Loading prices…</div>;
-  if (status === "error") return <div className="text-sm text-red-400">Price feed unavailable.</div>;
+  return prices;
+}
 
-  const rows = [
-    ["BTC", "bitcoin"],
-    ["ETH", "ethereum"],
-    ["SOL", "solana"],
-    ["ADA", "cardano"],
-    ["XRP", "ripple"],
-    ["DOGE", "dogecoin"],
-  ];
+export default function Ticker() {
+  const p = usePrices();
+
+  const items = [
+    ["BTC", p?.bitcoin],
+    ["ETH", p?.ethereum],
+    ["SOL", p?.solana],
+    ["ADA", p?.cardano],
+    ["XRP", p?.ripple],
+    ["DOGE", p?.dogecoin],
+  ].filter(([_, v]) => v);
+
+  // Small helper that gives colour + formatted string
+  const renderItem = (sym, v) => {
+    const price = v?.eur ?? v?.usd ?? 0;
+    const chg = v?.eur_24h_change ?? v?.usd_24h_change ?? 0;
+    const sign = chg >= 0 ? "+" : "";
+    const color =
+      chg > 0 ? "text-green-400" : chg < 0 ? "text-red-500" : "text-zinc-400";
+
+    return (
+      <span key={sym} className="flex items-center gap-1">
+        <span className="font-semibold text-zinc-100">{sym}</span>
+        <span className="text-zinc-300">
+          €{price.toLocaleString(undefined, { maximumFractionDigits: 2 })}
+        </span>
+        <span className={color}>
+          {sign}
+          {chg.toFixed(2)}%
+        </span>
+      </span>
+    );
+  };
 
   return (
-    <div className="flex items-center justify-between">
-      <div className="whitespace-nowrap overflow-x-auto no-scrollbar">
-        {rows.map(([sym, id]) => {
-          const p = data[id];
-          if (!p) return null;
-          const eur = p.eur ?? p.usd;
-          const chg = p.eur_24h_change ?? p.usd_24h_change ?? 0;
-          const sign = chg >= 0 ? "+" : "";
-          return (
-            <span key={id} className="inline-flex items-center gap-1 px-3 py-1">
-              <span className="opacity-80">{sym}</span>
-              <span>€{eur?.toLocaleString(undefined, { maximumFractionDigits: 2 })}</span>
-              <span className={chg >= 0 ? "text-green-500" : "text-red-500"}>
-                {sign}{chg.toFixed(2)}%
-              </span>
-            </span>
-          );
-        })}
+    <div className="relative overflow-hidden rounded-2xl border border-neutral-800">
+      <div className="whitespace-nowrap will-change-transform animate-ticker px-6 py-2 text-sm flex gap-6">
+        {items.map(([sym, v], i) => (
+          <React.Fragment key={sym}>
+            {i > 0 && <span className="opacity-40 text-zinc-500">•</span>}
+            {renderItem(sym, v)}
+          </React.Fragment>
+        ))}
+        {/* Duplicate once to make seamless scroll */}
+        {items.map(([sym, v], i) => (
+          <React.Fragment key={`${sym}-dup`}>
+            <span className="opacity-40 text-zinc-500">•</span>
+            {renderItem(sym, v)}
+          </React.Fragment>
+        ))}
       </div>
-      <button
-        onClick={load}
-        className="ml-3 rounded-lg border border-neutral-800 px-2 py-1 text-xs hover:bg-neutral-800/40"
-        title="Refresh now"
-      >
-        Refresh
-      </button>
     </div>
   );
 }
+<div className="relative overflow-hidden rounded-2xl border border-neutral-800 ticker-mask">
+  ...
+</div>
+

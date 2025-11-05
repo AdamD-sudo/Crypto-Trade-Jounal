@@ -1,349 +1,350 @@
 {
-  "generated_at": "2025-11-03T11:55:13.044Z",
-  "count": 29,
+  "generated_at": "2025-11-04T09:03:33.684Z",
+  "count": 30,
   "items": [
     {
-      "id": "15d276eeb36cad36b7e43c37",
-      "title": "cosmic-crypto added to PyPI",
-      "url": "https://pypi.org/project/cosmic-crypto/",
+      "id": "a6b109a8cf383c385b17d32c",
+      "title": "Huntington Bank Embraces FinTech Thinking to Build Faster",
+      "url": "https://www.pymnts.com/digital-first-banking/2025/huntington-bank-embraces-fintech-thinking-to-build-faster/",
       "source": "newsapi",
-      "source_name": "Pypi.org",
-      "image_url": "https://pypi.org/static/images/twitter.abaf4b19.webp",
-      "coins": [],
-      "published_at": "2025-11-02T11:53:45Z",
-      "excerpt": "Overkill cryptography with cosmic random images"
-    },
-    {
-      "id": "647e370fc7778611e672f4ee",
-      "title": "cosmic-crypto 0.1.0",
-      "url": "https://pypi.org/project/cosmic-crypto/0.1.0/",
-      "source": "newsapi",
-      "source_name": "Pypi.org",
-      "image_url": null,
-      "coins": [],
-      "published_at": "2025-11-02T11:53:45Z",
-      "excerpt": "Overkill cryptography with cosmic random images"
-    },
-    {
-      "id": "b02245f170a03491c705884d",
-      "title": "Dogecoin Enters the Big Leagues with Football Club Deal – Why $MAXI Could Be Next 1000x Crypto?",
-      "url": "https://bitcoinist.com/dogecoin-football-club-deal-why-maxi-could-be-next-1000x-crypto/",
-      "source": "newsapi",
-      "source_name": "Bitcoinist",
-      "image_url": "https://bitcoinist.com/wp-content/uploads/2025/11/dogecoin-football-club-deal-why-maxi-could-be-next-1000x-crypto-e1762083445579.jpg",
+      "source_name": "pymnts.com",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2025/11/building-faster-Huntington.jpg",
       "coins": [
-        "DOGE"
+        "SOL"
       ],
-      "published_at": "2025-11-02T11:42:22Z",
-      "excerpt": "Quick Facts: 1️⃣ House of Doge has acquired a majority stake in Italian football club US Triestina Calcio 1918 to boost Dogecoin’s real-world presence. 2️⃣ The team’s kits and stadium will now feature the Dogecoin logo, with plans to introduce $DOGE payments …"
+      "published_at": "2025-11-03T09:02:21Z",
+      "excerpt": "Today’s financial institutions aren’t racing to adopt the latest technology for bragging rights. Instead, they are homing in on the customer journey as the benchmark of meaningful change “We just want to continue solving problems for our customers,” Igor Cerc…"
     },
     {
-      "id": "59127c5db59b5d782bcbf1ab",
-      "title": "FTX creditor says real recovery could be as low as 9% amid inflated crypto prices",
-      "url": "https://cointelegraph.com/news/ftx-creditor-real-recovery-low-as-9-inflated-crypto-prices",
+      "id": "6a70f63cb997a2581cfb0d12",
+      "title": "CE 100 Index Sinks 2.5% Despite Big Tech’s Earnings Bump",
+      "url": "https://www.pymnts.com/connectedeconomy/2025/ce-100-index-sinks-2-5-despite-big-techs-earnings-bump/",
+      "source": "newsapi",
+      "source_name": "pymnts.com",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2025/11/CE-100-Index-1103.jpg",
+      "coins": [],
+      "published_at": "2025-11-03T09:00:55Z",
+      "excerpt": "Earnings season was the dominant force this past week, and Big Tech dominated the deluge of quarterly reports. By and large, the performance of the majority of pillars in the CE 100 Index was to the downside, as the overall index slipped 2.5%. The Live pillar…"
+    },
+    {
+      "id": "3d71624354d6779e5efa61e6",
+      "title": "Solana, Base, and Arbitrum: How L2s are absorbing Circle’s $75B expansion",
+      "url": "https://ambcrypto.com/solana-base-and-arbitrum-how-l2s-are-absorbing-circles-75b-expansion/",
+      "source": "newsapi",
+      "source_name": "Ambcrypto.com",
+      "image_url": "https://ambcrypto.com/wp-content/uploads/2025/11/Samyukhtha-12-1000x600.webp",
+      "coins": [
+        "SOL"
+      ],
+      "published_at": "2025-11-03T09:00:10Z",
+      "excerpt": "This is the year stablecoins go from passive storage to active on-chain capital."
+    },
+    {
+      "id": "316bfec55a6aec24f0327ba9",
+      "title": "Miners, Robinhood Earnings and Interest-Rate Decisions: Crypto Week Ahead",
+      "url": "https://www.coindesk.com/markets/2025/11/03/miners-robinhood-earnings-and-interest-rate-decisions-crypto-week-ahead",
+      "source": "newsapi",
+      "source_name": "CoinDesk",
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/7a14398c6e418565c276fd101c4664d2d7c6008c-1920x1080.jpg?auto=format",
+      "coins": [
+        "BTC"
+      ],
+      "published_at": "2025-11-03T09:00:00Z",
+      "excerpt": "Your look at what's coming in the week starting Nov. 3."
+    },
+    {
+      "id": "778e4a5ed6c244aa8e3aaf19",
+      "title": "French manufacturing sector remains in contraction in October, PMI shows",
+      "url": "https://biztoc.com/x/4fcd2807d343b8c2",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/950/og.png",
+      "coins": [],
+      "published_at": "2025-11-03T08:56:53Z",
+      "excerpt": ""
+    },
+    {
+      "id": "59eb91d1e32a027c6f9daed3",
+      "title": "Xi Quips About Backdoors During Xiaomi Phone Gift to Korea’s Lee",
+      "url": "https://biztoc.com/x/93ef43bb053ce174",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/93ef43bb053ce174_s.webp",
+      "coins": [],
+      "published_at": "2025-11-03T08:56:39Z",
+      "excerpt": ""
+    },
+    {
+      "id": "18af18a4f1e08fb8af219a70",
+      "title": "Standard Chartered CEO believes nearly all global transactions will move to the blockchain 'eventually'",
+      "url": "https://biztoc.com/x/271d511fc8230d2a",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/271d511fc8230d2a_s.webp",
+      "coins": [],
+      "published_at": "2025-11-03T08:56:37Z",
+      "excerpt": "Bill Winters, CEO of Standard Chartered, foresees a future in which nearly all global transactions are conducted on a digital blockchain ledger, he told a crowd in Hong Kong on Monday, as crypto adoption amongst mainstream banking and finance institutions gro…"
+    },
+    {
+      "id": "4294a8490a8c06c1bb52d637",
+      "title": "What to Watch This Week",
+      "url": "https://biztoc.com/x/b3b6e4bf1e331f3d",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/b3b6e4bf1e331f3d_s.webp",
+      "coins": [],
+      "published_at": "2025-11-03T08:56:27Z",
+      "excerpt": ""
+    },
+    {
+      "id": "72face0afadf56e4aa1b5ef9",
+      "title": "Italian manufacturing stagnates in October, PMI shows",
+      "url": "https://biztoc.com/x/c0bf7e4782705c91",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/c0bf7e4782705c91_s.webp",
+      "coins": [],
+      "published_at": "2025-11-03T08:56:23Z",
+      "excerpt": ""
+    },
+    {
+      "id": "c63e654da19ce328e9903fcc",
+      "title": "Tesla to buy $2 bln of ESS batteries from Samsung SDI over 3 years, newspaper says",
+      "url": "https://biztoc.com/x/255a2bdc3144073b",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/255a2bdc3144073b_s.webp",
+      "coins": [],
+      "published_at": "2025-11-03T08:56:09Z",
+      "excerpt": ""
+    },
+    {
+      "id": "7a68b50343522ab4ceee204b",
+      "title": "Balancer hit by suspected $70M exploit as staked Ether tokens sent to new wallet",
+      "url": "https://cointelegraph.com/news/balancer-suspected-70m-exploit-staked-ether-new-wallet",
       "source": "newsapi",
       "source_name": "Cointelegraph",
-      "image_url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-12/0193b6f6-4720-71b2-889f-8bb0082fc3cf",
+      "image_url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-11/019a48e3-4b50-77b6-bb3e-ddc65224f72e",
       "coins": [
-        "BTC",
-        "ETH",
-        "SOL"
+        "ETH"
       ],
-      "published_at": "2025-11-02T11:34:43Z",
-      "excerpt": "FTX creditors could receive just 9% to 46% of their crypto holdings’ real value after adjusting for today’s high Bitcoin, Ethereum and Solana prices, according to creditor rep Sunil."
+      "published_at": "2025-11-03T08:54:38Z",
+      "excerpt": "Balancer may have suffered a $70 million DeFi exploit, as millions in staked Ether were transferred to a new wallet, reigniting concerns over protocol security."
     },
     {
-      "id": "bef190daa28736295d17ca0d",
-      "title": "Free ICS2 CSSLP Practice Exams (Certified Secure Software Lifecycle Professional)",
-      "url": "https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Free-ICS2-CSSLP-Practice-Exams-Certified-Secure-Software-Lifecycle-Professional",
+      "id": "5dd3ce36ad0bf7a3778f0035",
+      "title": "Binance CEO: India Could Be the Next Crypto Superpower, in High-level Talks With Regulators",
+      "url": "https://www.ccn.com/news/crypto/binance-ceo-india-could-next-crypto-superpower-talks-with-regulators/",
       "source": "newsapi",
-      "source_name": "Theserverside.com",
-      "image_url": null,
-      "coins": [
-        "SOL"
-      ],
-      "published_at": "2025-11-02T11:33:16Z",
-      "excerpt": "These free ICS2 CSSLP Practice Exams and sample questions will help you achieve your Certified Secure Software Lifecycle Professional designation fast, without the need for exam dumps or braindumps."
+      "source_name": "Crypto Coins News",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/wILeH5oQHYVFl1BKsYykOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/ccn_928/62d1fb9e3c8bc2ce03c4638f29cb777d",
+      "coins": [],
+      "published_at": "2025-11-03T08:47:15Z",
+      "excerpt": "Binance CEO Richard Teng believes India is poised to become a global crypto leader. Teng cited India’s massive, young, and tech-savvy population as a key ..."
     },
     {
-      "id": "8ae7d73c7bc6ccfd071cf356",
-      "title": "With $1 Million Raised and over 139 Million Tokens Sold Blazpay Crypto Presale is now in phase 3",
-      "url": "https://www.globenewswire.com/news-release/2025/11/02/3178788/0/en/With-1-Million-Raised-and-over-139-Million-Tokens-Sold-Blazpay-Crypto-Presale-is-now-in-phase-3.html",
+      "id": "6989d0d339b2f64015228c78",
+      "title": "Adnoc CEO Says AI Raises Energy Investment Needs to $4 Trillion",
+      "url": "https://biztoc.com/x/99eccf7a150c3770",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/99eccf7a150c3770_s.webp",
+      "coins": [],
+      "published_at": "2025-11-03T08:45:42Z",
+      "excerpt": ""
+    },
+    {
+      "id": "0270f814ae6b403d952987d6",
+      "title": "Mitsubishi to build $1.3 billion urea plant in Turkmenistan, source says",
+      "url": "https://biztoc.com/x/91a1e6e428584ea9",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/91a1e6e428584ea9_s.webp",
+      "coins": [],
+      "published_at": "2025-11-03T08:45:31Z",
+      "excerpt": ""
+    },
+    {
+      "id": "1b0bedd926e41f664fde260f",
+      "title": "Alphabet to Sell at Least €3 Billion Bonds to Fund AI Expansion",
+      "url": "https://biztoc.com/x/3384a033df2f01f0",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/3384a033df2f01f0_s.webp",
+      "coins": [],
+      "published_at": "2025-11-03T08:45:17Z",
+      "excerpt": ""
+    },
+    {
+      "id": "99f2057a2534a0311d367f2f",
+      "title": "DeFi protocol Balancer potentially exploited as onchain data shows millions in outflows",
+      "url": "https://biztoc.com/x/da39606418b49cdd",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/da39606418b49cdd_s.webp",
+      "coins": [
+        "ETH"
+      ],
+      "published_at": "2025-11-03T08:45:14Z",
+      "excerpt": "DeFi protocol Balancer appears to have been exploited, with over $70 million in ether derivatives moved out of its vaults, per onchain data."
+    },
+    {
+      "id": "69df50a6cc4654a527481b85",
+      "title": "Campari Drops After Italy Seizes Shares in Tax-Fraud Probe",
+      "url": "https://biztoc.com/x/eefb0b78ddb2187f",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/eefb0b78ddb2187f_s.webp",
+      "coins": [],
+      "published_at": "2025-11-03T08:45:13Z",
+      "excerpt": ""
+    },
+    {
+      "id": "b8da576b026ec9cfe4c77690",
+      "title": "Court halts CARB/OEMs' Clean Truck Partnership as dueling lawsuits play out",
+      "url": "https://www.overdriveonline.com/equipment/article/15770874/oems-score-first-win-in-legal-battle-with-carb-over-clean-truck-partnership",
+      "source": "newsapi",
+      "source_name": "Overdriveonline.com",
+      "image_url": "https://img.overdriveonline.com/mindful/rr/workspaces/default/uploads/2025/11/california-clean-idle.RAxnlVVYrD.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
+      "coins": [],
+      "published_at": "2025-11-03T08:45:07Z",
+      "excerpt": "A judge has issued a preliminary injunction blocking CARB from enforcing the agreement while litigation is pending. Plus, Cargo theft activity flat year-over-year in Q3; latest Highway Angel."
+    },
+    {
+      "id": "77f880a0b5d2fbcc924eec4d",
+      "title": "Athens International Airport nine-month net profit falls 4.8% on higher costs",
+      "url": "https://biztoc.com/x/763840f35c0a7c77",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/950/og.png",
+      "coins": [],
+      "published_at": "2025-11-03T08:34:38Z",
+      "excerpt": ""
+    },
+    {
+      "id": "9263280145d89711585a7caf",
+      "title": "Norway reaches settlement with Airbus-led NHIndustries in NH90 helicopter case",
+      "url": "https://biztoc.com/x/3254b8e39f274e47",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/3254b8e39f274e47_s.webp",
+      "coins": [],
+      "published_at": "2025-11-03T08:34:25Z",
+      "excerpt": ""
+    },
+    {
+      "id": "f34c3b09cdf6b8d37ec69f9f",
+      "title": "Krispy Kreme Is Adding 5 New Doughnuts to Its Permanent Menu",
+      "url": "https://biztoc.com/x/b63f20c9efd054a9",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/950/og.png",
+      "coins": [],
+      "published_at": "2025-11-03T08:34:23Z",
+      "excerpt": ""
+    },
+    {
+      "id": "92870be42166e29a6fb93b93",
+      "title": "European shares steady as earnings season takes focus; Italy's Campari slides",
+      "url": "https://biztoc.com/x/bf386ab95ad0200a",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/bf386ab95ad0200a_s.webp",
+      "coins": [],
+      "published_at": "2025-11-03T08:34:21Z",
+      "excerpt": ""
+    },
+    {
+      "id": "a69f1c8a651d8fed0a74ae30",
+      "title": "Government Shutdown Set to Become Longest Ever as Key Elections Loom",
+      "url": "https://biztoc.com/x/5cf2381697661061",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/950/og.png",
+      "coins": [],
+      "published_at": "2025-11-03T08:34:08Z",
+      "excerpt": ""
+    },
+    {
+      "id": "a1bce247f396d1719f6d1f73",
+      "title": "Blazpay enters Phase 3 after raising 1 million dollars and surpassing 139 million tokens sold, marking another major milestone in its presale journey",
+      "url": "https://www.globenewswire.com/news-release/2025/11/03/3178917/0/en/Blazpay-enters-Phase-3-after-raising-1-million-dollars-and-surpassing-139-million-tokens-sold-marking-another-major-milestone-in-its-presale-journey.html",
       "source": "newsapi",
       "source_name": "GlobeNewswire",
       "image_url": "https://ml.globenewswire.com/Resource/Download/5c8c611a-e128-4f8a-9e7b-c374d611ba6f",
       "coins": [
         "SOL"
       ],
-      "published_at": "2025-11-02T11:31:00Z",
-      "excerpt": "PANAMA CITY, Nov. 02, 2025 (GLOBE NEWSWIRE) -- Blazpay’s Crypto Presale\r\n has officially surpassed $1 million raised, marking a major milestone as it nears the final sellout of Phase 3. With 150 million BLAZ tokens sold out of 157.3 million, investors are rus…"
+      "published_at": "2025-11-03T08:32:00Z",
+      "excerpt": "PANAMA CITY, Nov. 03, 2025 (GLOBE NEWSWIRE) -- Blazpay’s AI Crypto Presale\r\n 2025 has reached a significant milestone, raising $1 million in Phase 3 with 137 million BLAZ tokens sold out of 157.3 million. At over 87% completion, the presale highlights strong …"
     },
     {
-      "id": "b7b5a241098fdf5da51153bd",
-      "title": "Asking Eric: Between affairs and a secret crypto account, wife can’t trust husband anymore",
-      "url": "https://www.denverpost.com/2025/11/02/asking-eric-between-affairs-and-a-secret-crypto-account-wife-cant-trust-husband-anymore/",
+      "id": "f3a8c0c3441f75a0a0032413",
+      "title": "Virtune AB (Publ) (\"Virtune\") has completed the monthly rebalancing for October 2025 of its Virtune Crypto Altcoin Index ETP",
+      "url": "https://www.globenewswire.com/news-release/2025/11/03/3178915/0/en/Virtune-AB-Publ-Virtune-has-completed-the-monthly-rebalancing-for-October-2025-of-its-Virtune-Crypto-Altcoin-Index-ETP.html",
       "source": "newsapi",
-      "source_name": "The Denver Post",
-      "image_url": "https://www.denverpost.com/wp-content/uploads/2024/06/hd1-Eric_Thomas.jpg?w=1024&h=731",
+      "source_name": "GlobeNewswire",
+      "image_url": "https://ml-eu.globenewswire.com/Resource/Download/da0bec69-79eb-4618-87fd-d96aa395aaed",
       "coins": [],
-      "published_at": "2025-11-02T11:30:26Z",
-      "excerpt": "\"Many years before, he’d had a two-year affair with another coworker. It was a devastating experience for me.\""
+      "published_at": "2025-11-03T08:30:00Z",
+      "excerpt": "Stockholm, 3rd of November 2025 – Virtune AB (Publ) (\"Virtune\") today announces that it has completed the monthly rebalancing of the Virtune Crypto Altcoin Index ETP, listed on Nasdaq Stockholm, Nasdaq Helsinki and Xetra (ISIN code SE0023260716)."
     },
     {
-      "id": "27640a8190f2986741865b78",
-      "title": "10 Sunday Reads",
-      "url": "https://ritholtz.com/2025/11/10-sunday-reads-206/",
+      "id": "6b61bf0b8dc8d09a32ed295c",
+      "title": "Standard Chartered CEO believes nearly all global transactions will move to the blockchain 'eventually'",
+      "url": "https://www.cnbc.com/2025/11/03/standard-chartered-ceo-believes-nearly-all-global-transactions-will-move-to-the-blockchain-eventually.html",
       "source": "newsapi",
-      "source_name": "Ritholtz.com",
-      "image_url": "https://ritholtz.com/wp-content/uploads/2026/12/top10-2.png",
-      "coins": [
-        "SOL"
-      ],
-      "published_at": "2025-11-02T11:30:20Z",
-      "excerpt": "Avert your eyes! My Sunday morning look at incompetency, corruption and policy failures: • Tesla May Have Sold a Million Fewer Cars Because of Elon Musk’s Toxic Politics: The billionaire CEO did his electric vehicle company no favors by aligning with the MAGA…"
-    },
-    {
-      "id": "6917a8e7d2168725400de1b8",
-      "title": "Efforts to mint Canadian stablecoins push on as calls for rule changes grow",
-      "url": "https://financialpost.com/pmn/efforts-to-mint-canadian-stablecoins-push-on-as-calls-for-rule-changes-grow",
-      "source": "newsapi",
-      "source_name": "Financial Post",
-      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/11/6901254fe0401be87dd2aaeajpeg.jpg",
+      "source_name": "CNBC",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107325114-1698625752227-gettyimages-1615018934-HK_STANDARD_CHARTERED.jpeg?v=1762150315&w=1920&h=1080",
       "coins": [],
-      "published_at": "2025-11-02T11:02:37Z",
-      "excerpt": "TORONTO — Anticipation is building on what the federal government might say in Tuesday’s budget about the buzziest corner of the crypto world. Stablecoins, the kind of crypto asset that aims to mirror real-world currencies rather than replace them, have been …"
+      "published_at": "2025-11-03T08:28:20Z",
+      "excerpt": "Standard Chartered CEO Bill Winters foresees a future in which nearly all global transactions are conducted on a digital blockchain ledger."
     },
     {
-      "id": "71481c3739f47d46fa129c71",
-      "title": "Forget Billions—XRP Could Hit Trillions, Leading Expert Says",
-      "url": "http://www.newsbtc.com/altcoin/forget-billions-xrp-could-hit-trillions-leading-expert-says/",
+      "id": "4c1291719c65ad28f9f85577",
+      "title": "CompoSecure to unveil $5 billion deal for Husky Technologies, WSJ reports",
+      "url": "https://biztoc.com/x/3dfe5ab3a3466f0f",
       "source": "newsapi",
-      "source_name": "newsBTC",
-      "image_url": "https://www.newsbtc.com/wp-content/uploads/2025/11/a_62ea98.jpg?fit=2560%2C1826",
-      "coins": [
-        "SOL",
-        "XRP"
-      ],
-      "published_at": "2025-11-02T11:00:32Z",
-      "excerpt": "Ripple’s recent moves are drawing new attention after Western Union picked Solana for a USDPT rollout in 2026. According to supporters of XRP, that headline misses a bigger picture: Ripple has been buying firms that touch much larger pools of money. Related R…"
-    },
-    {
-      "id": "f25f5a0bb399bbc1f3107333",
-      "title": "Fed’s $29.4B liquidity boost – Bitcoin bulls, your moment may be coming",
-      "url": "https://ambcrypto.com/feds-29-4b-liquidity-boost-bitcoin-bulls-your-moment-may-be-coming/",
-      "source": "newsapi",
-      "source_name": "Ambcrypto.com",
-      "image_url": "https://ambcrypto.com/wp-content/uploads/2025/11/Ritika-1-1000x600.webp",
-      "coins": [
-        "BTC"
-      ],
-      "published_at": "2025-11-02T11:00:12Z",
-      "excerpt": "Bitcoin’s Q4 run: Delayed, not denied as Fed liquidity builds."
-    },
-    {
-      "id": "77baeeebce24934980081075",
-      "title": "Defunct Crypto Exchange Thodex CEO Found Dead In Prison Cell — Report",
-      "url": "https://bitcoinist.com/thodex-ceo-found-dead-in-prison-cell-details/",
-      "source": "newsapi",
-      "source_name": "Bitcoinist",
-      "image_url": "https://bitcoinist.com/wp-content/uploads/2025/11/131023071_gettyimages-1252007510.jpg",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/950/og.png",
       "coins": [],
-      "published_at": "2025-11-02T11:00:06Z",
-      "excerpt": "Faruk Fatih Ozer, founder of the now-defunct Thodex exchange, was found dead in his prison cell while serving his sentence in Turkey, according to local media reports. The former exchange CEO was sentenced in 2023 to 11,196 years in jail for various financial…"
-    },
-    {
-      "id": "7c8dd34973c345ab4732f8f9",
-      "title": "Reader’s Corner: The mirage of digital wealth",
-      "url": "https://indianexpress.com/article/cities/chandigarh/readers-corner-mirage-of-digital-wealth-cryptocurrency-10341739/",
-      "source": "newsapi",
-      "source_name": "The Indian Express",
-      "image_url": "https://images.indianexpress.com/2025/11/Crypto.jpg",
-      "coins": [],
-      "published_at": "2025-11-02T10:53:48Z",
-      "excerpt": "How digital dreams of easy money fuel devastating scams across India."
-    },
-    {
-      "id": "be7dbdc61a48b21b0adc284b",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/125032600.cms",
-      "source": "newsapi",
-      "source_name": "The Times of India",
-      "image_url": "https://img.etimg.com/thumb/msid-125032628,width-1200,height-630,imgsize-118486,overlay-etmarkets/articleshow.jpg",
-      "coins": [],
-      "published_at": "2025-11-02T10:48:16Z",
-      "excerpt": "Indian stock markets closed lower on Friday. The Sensex and Nifty experienced a second day of declines. Investors booked profits amid mixed corporate results and cautious global sentiment. A stronger US dollar and the Federal Reserve's stance on rate cuts imp…"
-    },
-    {
-      "id": "3d37c0f4a0db3cf9fd22c324",
-      "title": "Why Trump Keeps Pardoning Crypto Criminals",
-      "url": "https://slate.com/podcasts/what-next-tbd/2025/11/trump-loves-crypto-and-it-loves-him-back-monetarily",
-      "source": "newsapi",
-      "source_name": "Slate Magazine",
-      "image_url": "https://compote.slate.com/images/f737c87d-c879-475b-964c-4fe66dea16d5.jpeg?crop=4500%2C3000%2Cx0%2Cy0&width=1560",
-      "coins": [],
-      "published_at": "2025-11-02T10:30:00Z",
-      "excerpt": "Trump’s entry into the predictions market brings things full circle to his ol’ casino days."
-    },
-    {
-      "id": "5268765d0af658c6aead907f",
-      "title": "Business mogul Ben Mallah claims he's earned ‘infinite returns’ on American real estate — here's the method he uses",
-      "url": "https://finance.yahoo.com/news/business-mogul-ben-mallah-claims-101300535.html",
-      "source": "newsapi",
-      "source_name": "Yahoo Entertainment",
-      "image_url": "https://media.zenfs.com/en/moneywise_ecomm_711/69568f5219c0ad193bf5a755a050be70",
-      "coins": [],
-      "published_at": "2025-11-02T10:13:00Z",
-      "excerpt": "It's more commonly known as the BRRRR method, and it's legal."
-    },
-    {
-      "id": "87833260e6c5bc6a521e0733",
-      "title": "95% of Iran’s 427,000 active crypto mining devices operate illegally, official says",
-      "url": "https://cointelegraph.com/news/iran-illegal-crypto-mining-crackdown-95-percent-unlicensed",
-      "source": "newsapi",
-      "source_name": "Cointelegraph",
-      "image_url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-11/019a43fe-fcc3-7889-83ef-01978e096755",
-      "coins": [],
-      "published_at": "2025-11-02T09:56:27Z",
-      "excerpt": "Iran, now the world’s fourth-largest crypto mining hub, is battling a surge in illegal mining as 95% of rigs run unlicensed, straining the national power grid."
-    },
-    {
-      "id": "dd25e1386d80441bfab903df",
-      "title": "In the race toward AI, copper is the strategic edge the world overlooks",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/in-the-race-toward-ai-copper-is-the-strategic-edge-the-world-overlooks/articleshow/125031962.cms",
-      "source": "newsapi",
-      "source_name": "The Times of India",
-      "image_url": "https://img.etimg.com/thumb/msid-125032002,width-1200,height-630,imgsize-77958,overlay-etmarkets/articleshow.jpg",
-      "coins": [],
-      "published_at": "2025-11-02T09:49:02Z",
-      "excerpt": "While investors chase AI giants like NVIDIA, the real opportunity may lie in copper, the unseen backbone of the digital and green revolutions. With rising demand from data centres, EVs, and renewables, and constrained global supply, copper stands as a critica…"
-    },
-    {
-      "id": "1d70b99f4a0c1b3f3b5a97cb",
-      "title": "lakeapi 0.22.3",
-      "url": "https://pypi.org/project/lakeapi/0.22.3/",
-      "source": "newsapi",
-      "source_name": "Pypi.org",
-      "image_url": null,
-      "coins": [],
-      "published_at": "2025-11-02T09:33:39Z",
-      "excerpt": "API for accessing Lake crypto market data"
-    },
-    {
-      "id": "052cd942663a9282bcc3115f",
-      "title": "Ukrainian extradited to US over Conti ransomware involvement",
-      "url": "https://securityaffairs.com/184106/security/ukrainian-extradited-to-us-over-conti-ransomware-involvement.html",
-      "source": "newsapi",
-      "source_name": "Securityaffairs.com",
-      "image_url": "https://securityaffairs.com/wp-content/uploads/2015/03/DoJ.jpg",
-      "coins": [],
-      "published_at": "2025-11-02T09:31:53Z",
-      "excerpt": "Ukrainian Oleksii Lytvynenko extradited from Ireland to US for alleged role in Conti ransomware after fleeing Ukraine in 2022. Ukrainian national Oleksii Lytvynenko (43) extradited from Ireland to the US, faces charges for alleged involvement in Conti ransomw…"
-    },
-    {
-      "id": "cde31ed7c4f2b6b67c3751d5",
-      "title": "Bitcoin Price Chart Still Screams Bullish — So Why Is the Breakout Stalling?",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9210483b-3b8e-4367-a489-3112b73e312f",
-      "source": "newsapi",
-      "source_name": "Yahoo Entertainment",
-      "image_url": null,
-      "coins": [
-        "BTC"
-      ],
-      "published_at": "2025-11-02T09:23:19Z",
+      "published_at": "2025-11-03T08:23:36Z",
       "excerpt": ""
     },
     {
-      "id": "60a651964d47ef21775c9037",
-      "title": "Street Calls of the Week",
-      "url": "https://finance.yahoo.com/news/street-calls-week-090935715.html",
+      "id": "e0665f6998155e38a1512daf",
+      "title": "Show HN: I couldn't tell if $180K net worth at 32 was good, so I built this",
+      "url": "https://news.ycombinator.com/item?id=45796957",
       "source": "newsapi",
-      "source_name": "Yahoo Entertainment",
-      "image_url": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "coins": [],
-      "published_at": "2025-11-02T09:09:35Z",
-      "excerpt": "Investing.com -- Here is your Pro Recap of the top takeaways from Wall Street analysts for the past week."
-    },
-    {
-      "id": "96347022faa20fb554379c7f",
-      "title": "China’s $47T liquidity surge could be Bitcoin’s secret weapon! Here’s why",
-      "url": "https://ambcrypto.com/chinas-47t-liquidity-surge-could-be-bitcoins-secret-weapon-heres-why/",
-      "source": "newsapi",
-      "source_name": "Ambcrypto.com",
-      "image_url": "https://ambcrypto.com/wp-content/uploads/2025/11/Samyukhtha-8-1000x600.webp",
-      "coins": [
-        "BTC"
-      ],
-      "published_at": "2025-11-02T09:00:59Z",
-      "excerpt": "With less borrowing and more stablecoins, changing money flows could shape Bitcoin’s next move."
-    },
-    {
-      "id": "b8eae65d8dad8df135b1cde5",
-      "title": "Digital Assets Go Big: Malaysia’s 3-Year Tokenization Roadmap Revealed",
-      "url": "https://bitcoinist.com/digital-assets-go-big-malaysias-3-year-tokenization-roadmap-revealed/",
-      "source": "newsapi",
-      "source_name": "Bitcoinist",
-      "image_url": "https://bitcoinist.com/wp-content/uploads/2025/11/a_5845e1.jpg",
-      "coins": [],
-      "published_at": "2025-11-02T09:00:55Z",
-      "excerpt": "Malaysia’s central bank has launched a three-year push to test tokenizing real-world assets, aiming to move experiments from concepts into live trials. The plan sets out pilots and proof-of-concepts that regulators and industry will run together over the next…"
-    },
-    {
-      "id": "20d6d3f0ccac12b44aa1ca47",
-      "title": "Today in History: November 2, Howard Hughes takes ‘Spruce Goose’ on its only flight",
-      "url": "https://www.bostonherald.com/2025/11/02/today-in-history-november-2-howard-hughes-takes-spruce-goose-on-its-only-flight/",
-      "source": "newsapi",
-      "source_name": "Boston Herald",
-      "image_url": "https://www.bostonherald.com/wp-content/uploads/2025/10/AP7601010270.jpg?w=1024&h=639",
-      "coins": [],
-      "published_at": "2025-11-02T09:00:36Z",
-      "excerpt": "Howard Hughes piloted his Hughes H-4 Hercules, nicknamed the “Spruce Goose,” on its only flight; a massive wooden seaplane with a wingspan longer than a football field."
-    },
-    {
-      "id": "b2c11ae30cbd8dabc104faea",
-      "title": "Today in History: November 2, Howard Hughes takes ‘Spruce Goose’ on its only flight",
-      "url": "https://www.denverpost.com/2025/11/02/today-in-history-november-2-howard-hughes-takes-spruce-goose-on-its-only-flight/",
-      "source": "newsapi",
-      "source_name": "The Denver Post",
-      "image_url": "https://www.denverpost.com/wp-content/uploads/2025/10/AP7601010270.jpg?w=1024&h=639",
-      "coins": [],
-      "published_at": "2025-11-02T09:00:36Z",
-      "excerpt": "Howard Hughes piloted his Hughes H-4 Hercules, nicknamed the “Spruce Goose,” on its only flight; a massive wooden seaplane with a wingspan longer than a football field."
-    },
-    {
-      "id": "37b7eea4cd7a8593c68599c6",
-      "title": "Billions In Bitcoin And Ethereum Leave Exchanges: Is Selling Pressure Easing?",
-      "url": "http://www.newsbtc.com/news/bitcoin/billions-in-bitcoin-and-ethereum-leave-exchanges-is-selling-pressure-easing/",
-      "source": "newsapi",
-      "source_name": "newsBTC",
-      "image_url": "https://www.newsbtc.com/wp-content/uploads/2025/11/a_874beb.jpg",
-      "coins": [
-        "BTC",
-        "ETH"
-      ],
-      "published_at": "2025-11-02T09:00:29Z",
-      "excerpt": "A new trend is taking shape across the crypto market with investors pulling large amounts of Bitcoin and Ethereum from centralized exchanges. Data from on-chain analytics platform Sentora, formerly known as IntoTheBlock, shows that exchange balances for both …"
-    },
-    {
-      "id": "8a071c1b20864db42482d8d9",
-      "title": "mcp-aktools 0.1.11",
-      "url": "https://pypi.org/project/mcp-aktools/0.1.11/",
-      "source": "newsapi",
-      "source_name": "Pypi.org",
+      "source_name": "Hacker News",
       "image_url": null,
       "coins": [],
-      "published_at": "2025-11-02T08:55:28Z",
-      "excerpt": "MCP Server for stock and crypto"
+      "published_at": "2025-11-03T08:23:16Z",
+      "excerpt": "I hit $180K net worth at 32 and genuinely didn't know if I was ahead, average, or behind.Googled \"net worth percentile by age\" – found outdated Federal Reserve tables from 2019. No real-time data. No easy way to track my actual progress.So I built Guapital (h…"
     },
     {
-      "id": "b4f1c876ec762b7002594a1d",
-      "title": "Romania blacklists Polymarket for illegal crypto betting amid $600M election wagers",
-      "url": "https://cointelegraph.com/news/romania-blacklists-polymarket-illegal-crypto-betting",
+      "id": "1693a39af23f762ffe570b19",
+      "title": "Thai Union Cuts Sales Outlook on Tariffs, Currency Volatility",
+      "url": "https://biztoc.com/x/22fe5b3b360251b8",
       "source": "newsapi",
-      "source_name": "Cointelegraph",
-      "image_url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-11/019a43c5-0a0f-7283-843b-6ede7422f1ca",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/22fe5b3b360251b8_s.webp",
       "coins": [],
-      "published_at": "2025-11-02T08:53:15Z",
-      "excerpt": "Romania’s gambling regulator banned Polymarket for operating without a license after $600 million in crypto election bets, calling its model illegal gambling, not trading."
+      "published_at": "2025-11-03T08:23:14Z",
+      "excerpt": ""
+    },
+    {
+      "id": "39221f445c96c8f6b6da33ed",
+      "title": "Spain's manufacturing sector posts solid growth in October, PMI shows",
+      "url": "https://biztoc.com/x/ce82acb1ea21fce8",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/ce82acb1ea21fce8_s.webp",
+      "coins": [
+        "SOL"
+      ],
+      "published_at": "2025-11-03T08:23:11Z",
+      "excerpt": ""
     }
   ]
 }
