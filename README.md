@@ -6,7 +6,7 @@ A custom-built crypto trading journal created to track my own trades and perform
 
 ## 📸 Preview
 
-![App Screenshot](./trading-app-screenshot.png)
+![App Screenshot](Crypto-Trade-Journal_Dash.png)
 
 ---
 
