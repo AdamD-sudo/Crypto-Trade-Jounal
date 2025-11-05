@@ -1,16 +1,46 @@
-# React + Vite
+# Crypto Trade Journal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A custom-built crypto trading journal created to track my own trades and performance more effectively than existing platforms.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview
 
-## React Compiler
+![App Screenshot](./trading-app-screenshot.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🔧 Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Node.js
+- Express
+- Tailwind CSS
+- JavaScript
+- SQL (in progress)
+- Vite
+- worker.mjs
+
+---
+
+## 💡 Why I Built It
+
+As an active trader, I found most tracking apps lacked the simplicity and flexibility I needed. So I started building my own — a platform that fits my trading workflow, expands my full-stack skills, and showcases my ability to ship and learn independently.
+
+---
+
+## 🚀 Features (live or in progress)
+
+- Live crypto price ticker
+- Real-time crypto news integration
+- Secure login and dashboard
+- Portfolio snapshot and journal overview
+- SQL-based logging system for trade entries (in development)
+
+---
+
+## ⚙️ Local Setup
+
+```bash
+npm install
+npm run dev
