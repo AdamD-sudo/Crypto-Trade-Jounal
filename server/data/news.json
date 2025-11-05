@@ -1,366 +1,358 @@
 {
-  "generated_at": "2025-11-05T15:17:29.097Z",
-  "count": 30,
+  "generated_at": "2025-11-05T21:26:11.095Z",
+  "count": 29,
   "items": [
     {
-      "id": "9583b86f3b04b85208451113",
-      "title": "CertiK’s Digital Asset Treasuries Report Provides Quantitative Security and Compliance Framework to Assess DAT Operational Integrity",
-      "url": "https://www.globenewswire.com/news-release/2025/11/04/3180558/0/en/CertiK-s-Digital-Asset-Treasuries-Report-Provides-Quantitative-Security-and-Compliance-Framework-to-Assess-DAT-Operational-Integrity.html",
-      "source": "newsapi",
-      "source_name": "GlobeNewswire",
-      "image_url": null,
-      "coins": [],
-      "published_at": "2025-11-04T15:17:00Z",
-      "excerpt": "Key trends within digital asset treasuries include tokenized real-world assets (RWAs) and integration with central bank digital currencies (CBDCs)......."
-    },
-    {
-      "id": "a66f55abe85d0ca4113c1b4a",
-      "title": "Deutsche Börse opens Global Value Centre in Hyderabad, to hire 1,000 engineers",
-      "url": "https://www.thehindubusinessline.com/info-tech/deutsche-borse-opens-global-value-centre-in-hyderabad-to-hire-1000-engineers/article70240779.ece",
-      "source": "newsapi",
-      "source_name": "BusinessLine",
-      "image_url": "https://bl-i.thgim.com/public/incoming/bzb84m/article70241049.ece/alternates/LANDSCAPE_1200/20251104143L.jpg",
-      "coins": [
-        "SOL"
-      ],
-      "published_at": "2025-11-04T15:15:16Z",
-      "excerpt": "Engineers at the new facility will design advanced trading and clearing platforms, develop intelligent data solutions, and pioneer blockchain-based financial systems."
-    },
-    {
-      "id": "009d90856b1a58825253b407",
-      "title": "gcevm-sdk 0.0.4",
-      "url": "https://pypi.org/project/gcevm-sdk/0.0.4/",
-      "source": "newsapi",
-      "source_name": "Pypi.org",
-      "image_url": null,
-      "coins": [],
-      "published_at": "2025-11-04T15:14:51Z",
-      "excerpt": "Soda SDK - Cryptographic functions for Soda Labs blockchain"
-    },
-    {
-      "id": "2aec3a6f233d8b8d50aff160",
-      "title": "Behavox Enhances End-to-End Alerts Reporting for Transparent, Auditable Compliance",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/behavox-enhances-end-to-end-alerts-reporting-for-transparent-auditable-compliance",
-      "source": "newsapi",
-      "source_name": "Financial Post",
-      "image_url": null,
-      "coins": [],
-      "published_at": "2025-11-04T15:09:30Z",
-      "excerpt": "Daily automated data management reports give full visibility across ingestion, processing, filtering and alert generation, advancing industry standards for auditability and data observability. LONDON & MONTREAL — Behavox, the AI company that transforms data i…"
-    },
-    {
-      "id": "6ea7eca58485ce61edcb3ec9",
-      "title": "Police arrests suspects linked to €600 million crypto fraud ring",
-      "url": "https://www.bleepingcomputer.com/news/security/european-police-dismantles-600-million-crypto-investment-fraud-ring/",
-      "source": "newsapi",
-      "source_name": "BleepingComputer",
-      "image_url": "https://www.bleepstatic.com/content/hl-images/2025/06/16/law-enforcement-arrest-red.jpg",
-      "coins": [],
-      "published_at": "2025-11-04T15:09:22Z",
-      "excerpt": "European law enforcement authorities have arrested nine suspected money launderers who set up a cryptocurrency fraud network that stole over €600 million ($689 million) from victims across multiple countries. [...]"
-    },
-    {
-      "id": "297ebe6f9db438dbd3ffafa7",
-      "title": "gcevm-sdk added to PyPI",
-      "url": "https://pypi.org/project/gcevm-sdk/",
-      "source": "newsapi",
-      "source_name": "Pypi.org",
-      "image_url": "https://pypi.org/static/images/twitter.abaf4b19.webp",
-      "coins": [],
-      "published_at": "2025-11-04T15:07:36Z",
-      "excerpt": "Cryptographic SDK for AES, RSA, ECDSA encryption and Soda Labs blockchain integration"
-    },
-    {
-      "id": "8c24a4b137c801bfb06ced9b",
-      "title": "The Hobby Awards: Best Non-Sports Card Product",
-      "url": "https://news.onmantel.com/the-hobby-awards-best-non-sports-card-product/",
-      "source": "newsapi",
-      "source_name": "Onmantel.com",
-      "image_url": "https://news.onmantel.com/wp-content/uploads/2025/11/Best-Non-Sports-Card-9x16-1-scaled.png",
-      "coins": [],
-      "published_at": "2025-11-04T15:05:40Z",
-      "excerpt": "From nostalgic franchises to bold crossovers, trading card games continue to redefine what it means to collect, play, and connect. The Best Non-Sports Card Product category honors releases that…"
-    },
-    {
-      "id": "480063f18b0cddc9660647ee",
-      "title": "Is Digitap ($TAP) the Best Crypto to Buy Over Cardano and Avalanche for the 2026 Bull Run?",
-      "url": "https://ambcrypto.com/is-digitap-tap-the-best-crypto-to-buy-over-cardano-and-avalanche-for-the-2026-bull-run/",
+      "id": "eca5b6aa11108f3e9074f88b",
+      "title": "Ethereum leads $230B crypto crash as Altcoin Season Index plunges to 23: Fear grips markets",
+      "url": "https://ambcrypto.com/ethereum-leads-230b-crypto-crash-as-altcoin-season-index-plunges-to-23-fear-grips-markets/",
       "source": "newsapi",
       "source_name": "Ambcrypto.com",
-      "image_url": "https://ambcrypto.com/wp-content/uploads/2025/11/Screenshot-2025-11-04-at-7.38.08 PM-1000x600.png",
-      "coins": [
-        "SOL",
-        "ADA"
-      ],
-      "published_at": "2025-11-04T15:05:08Z",
-      "excerpt": "Despite recent market weakness, the crypto bull run remains strong. With just a few weeks […]"
-    },
-    {
-      "id": "d5bf33f5f7d7fdd15a111133",
-      "title": "5 Crazy Moments From Trump's 60 Minutes Interview",
-      "url": "https://www.yahoo.com/news/videos/5-crazy-moments-trumps-60-150440566.html",
-      "source": "newsapi",
-      "source_name": "Yahoo Entertainment",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/X4ptel841YxRvN3z69_QTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/mediaite_videos_432/e1ddc43a0fec19095c4c41dc4088b813",
-      "coins": [],
-      "published_at": "2025-11-04T15:04:40Z",
-      "excerpt": "A look at the most shocking moments from Donald Trump's '60 Minutes' interview, including a controversial crypto pardon and a clash with Nora O'Donnell."
-    },
-    {
-      "id": "ccb7aa6b1e5c992bffd00f83",
-      "title": "‘Extreme fear’ grips crypto after Goldman, Morgan Stanley warnings",
-      "url": "https://www.thestreet.com/crypto/markets/extreme-fear-grips-crypto-after-goldman-morgan-stanley-warnings",
-      "source": "newsapi",
-      "source_name": "TheStreet",
-      "image_url": "https://media.zenfs.com/en/thestreet_881/8b073c2d1325e81a906e2cb9f21619c4",
-      "coins": [
-        "BTC"
-      ],
-      "published_at": "2025-11-04T15:04:36Z",
-      "excerpt": "The crypto market has plunged into a range of “Extreme Fear” conditions only weeks after hitting fresh highs. The global crypto market cap now stands at..."
-    },
-    {
-      "id": "ed92906685ac5140ac60cd83",
-      "title": "Privacy Coins Comeback: $25B Market Cap Milestone Sparks Bullish Hopes for Monero",
-      "url": "http://www.newsbtc.com/news/monero-xmr/privacy-coins-comeback-25b-market-cap-milestone-sparks-bullish-hopes-for-monero/",
-      "source": "newsapi",
-      "source_name": "newsBTC",
-      "image_url": "https://www.newsbtc.com/wp-content/uploads/2025/11/monero-xmr-xmrusd.png?fit=1024%2C1024",
-      "coins": [
-        "XRP"
-      ],
-      "published_at": "2025-11-04T15:00:56Z",
-      "excerpt": "Privacy-focused cryptocurrencies, such as Monero, are roaring back, with the total market capitalization of these coins surpassing the $62 billion mark for the first time since 2021. Related Reading: Rare Chart Formation That Led To An 87% XRP Price Crash Has…"
-    },
-    {
-      "id": "787624c7f913e0c0690b79e0",
-      "title": "How Zcash reclaimed the privacy crown from Monero",
-      "url": "https://cryptoslate.com/how-zcash-reclaimed-the-privacy-crown-from-monero/",
-      "source": "newsapi",
-      "source_name": "CryptoSlate",
-      "image_url": "https://cryptoslate.com/wp-content/uploads/2025/11/zcash-monero-.jpg",
-      "coins": [
-        "BTC"
-      ],
-      "published_at": "2025-11-04T15:00:36Z",
-      "excerpt": "For nearly a decade, the rivalry between Zcash (ZEC) and Monero (XMR) defined the crypto privacy movement. The two digital assets promised what Bitcoin couldn’t, true transactional anonymity, but they took very different paths to achieve it. Monero made priva…"
-    },
-    {
-      "id": "62287ccd1b801e28b4fdc105",
-      "title": "Rotten Tomatoes",
-      "url": "https://www.theparisreview.org/blog/2025/11/04/rotten-tomatoes/",
-      "source": "newsapi",
-      "source_name": "Theparisreview.org",
-      "image_url": "https://www.theparisreview.org/blog/wp-content/uploads/2025/10/screenshot-2025-10-23-at-105029.png",
-      "coins": [
-        "SOL"
-      ],
-      "published_at": "2025-11-04T15:00:08Z",
-      "excerpt": "November 4, 2025 – New books by Solvej Balle, A. S. Hamrah, Anika Jade Levy, and Cynthia Zarin."
-    },
-    {
-      "id": "5b02e5d51a2f2d7815f191e0",
-      "title": "Ethereum Treasury Has Seen Sharp Demand, But ETH’s Price Action Shows Weak Follow-Through",
-      "url": "https://bitcoinist.com/ethereum-treasury-with-price-action/",
-      "source": "newsapi",
-      "source_name": "Bitcoinist",
-      "image_url": "https://bitcoinist.com/wp-content/uploads/2025/11/Ethereum-from-Adobe-Stock-8.jpg",
+      "image_url": "https://ambcrypto.com/wp-content/uploads/2025/11/Ethereum-1000x600.png",
       "coins": [
         "ETH"
       ],
-      "published_at": "2025-11-04T15:00:02Z",
-      "excerpt": "Volatility observed around Ethereum is intensifying as the price faces a potential downward retest of the key $3,500 mark. ETH’s downside trend is taking place amid several bullish developments, such as massive accumulation by treasury companies, raising ques…"
+      "published_at": "2025-11-04T21:24:57Z",
+      "excerpt": "Crypto markets lost $230 billion, with Ethereum leading an altcoin massacre that pushed the Fear and Greed Index into deep fear territory at 27."
     },
     {
-      "id": "cd0395a77865c9584b054cd0",
-      "title": "First-Time Home Buyer Share Falls to Historic Low of 21%, Median Age Rises to 40",
-      "url": "https://www.globenewswire.com/news-release/2025/11/04/3180519/0/en/First-Time-Home-Buyer-Share-Falls-to-Historic-Low-of-21-Median-Age-Rises-to-40.html",
+      "id": "1b5154194cf8c8939c9ef89d",
+      "title": "Here's Why Ethereum Classic Tumbled Tuesday",
+      "url": "https://biztoc.com/x/15d183ab869fcc8b",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/15d183ab869fcc8b_s.webp",
+      "coins": [
+        "ETH"
+      ],
+      "published_at": "2025-11-04T21:24:20Z",
+      "excerpt": "Ethereum Classic (CRYPTO: ETC) is falling Tuesday afternoon, swept up in a market-wide crypto correction. Here’s what investors need to know.\n$ETC is sinking Tuesday. See the full story here.\nWhat To Know: The sell-off was driven by a broader risk-off sentime…"
+    },
+    {
+      "id": "47eb8758b5d88342343d0142",
+      "title": "pymexc 1.2.14",
+      "url": "https://pypi.org/project/pymexc/1.2.14/",
+      "source": "newsapi",
+      "source_name": "Pypi.org",
+      "image_url": null,
+      "coins": [],
+      "published_at": "2025-11-04T21:18:36Z",
+      "excerpt": "Unofficial python library for interacting with the MEXC crypto exchange"
+    },
+    {
+      "id": "c21a6f4069465e854c72385b",
+      "title": "Bakkt Completes Capital Structure Simplification and Single-Class Stock Transition",
+      "url": "https://www.globenewswire.com/news-release/2025/11/04/3180902/0/en/Bakkt-Completes-Capital-Structure-Simplification-and-Single-Class-Stock-Transition.html",
       "source": "newsapi",
       "source_name": "GlobeNewswire",
-      "image_url": "https://ml.globenewswire.com/Resource/Download/0311b68a-0e3b-4d1b-9eab-902f510f6a59",
+      "image_url": null,
       "coins": [],
-      "published_at": "2025-11-04T15:00:00Z",
-      "excerpt": "Approximately nine in 10 buyers and sellers worked with a real estate agent, with seller representation reaching record highs Approximately nine in 10 buyers and sellers worked with a real estate agent, with seller representation reaching record highs"
+      "published_at": "2025-11-04T21:15:00Z",
+      "excerpt": "NEW YORK, Nov. 04, 2025 (GLOBE NEWSWIRE) -- Bakkt Holdings, Inc. (“Bakkt” or the “Company”) (NYSE:BKKT) announced today announced that it has completed its previously disclosed reorganization, eliminating its umbrella partnership-C corporation (“Up-C”) struct…"
     },
     {
-      "id": "2acdb814c7fd6bb2a0425fb5",
-      "title": "Cleaning Up Crypto ATMs Isn’t Anti-Crypto",
-      "url": "https://www.coindesk.com/opinion/2025/11/04/cleaning-up-crypto-atms-isn-t-anti-crypto",
+      "id": "e5fe6661dfe5fdc9c0583504",
+      "title": "Bitcoin slips below $100,000 for first time since June. Here’s where it might be headed next",
+      "url": "https://biztoc.com/x/51d27957dff02ef1",
       "source": "newsapi",
-      "source_name": "CoinDesk",
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/136b43290b73ecfae362fc9c757b4d1d2ff999a0-1920x1080.jpg?auto=format",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/950/og.png",
       "coins": [
         "BTC"
       ],
-      "published_at": "2025-11-04T15:00:00Z",
-      "excerpt": "The louder these companies protest regulation, the clearer it becomes that something’s off, argue Paradigm’s Katie Biber and Dominique Little."
+      "published_at": "2025-11-04T21:13:10Z",
+      "excerpt": "Bitcoin prices retreated below $100,000 for the first time since June on Tuesday, bringing the pioneering cryptocurrency to the cusp of a bear market, Dow Jones Market Data showed."
     },
     {
-      "id": "8c706bd2d0ea43caaef7d64f",
-      "title": "Bitcoin Falls Below $104,000—Here’s Why Crypto Prices May Be Dropping",
-      "url": "https://www.forbes.com/sites/tylerroush/2025/11/04/bitcoin-falls-below-104000-heres-why-crypto-prices-may-be-dropping/",
+      "id": "01f99253f4745cafcc16d74e",
+      "title": "Crypto’s Retail Era Rattled With ETFs Facing $89,600 Pain Point",
+      "url": "https://biztoc.com/x/bdab0b844d029aae",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/bdab0b844d029aae_s.webp",
+      "coins": [],
+      "published_at": "2025-11-04T21:13:03Z",
+      "excerpt": ""
+    },
+    {
+      "id": "9f38e6c365cbe1bef5c26375",
+      "title": "Bitcoin Price Hits 5-Month Low; Hut 8 Leads Miner Sell Off",
+      "url": "https://biztoc.com/x/0068aea8ccac608f",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/950/og.png",
+      "coins": [
+        "BTC"
+      ],
+      "published_at": "2025-11-04T21:12:59Z",
+      "excerpt": "Bitcoin price dropped to its lowest level since May on Tuesday, sending miner stocks and ETFs to steep slides. \nThe post Bitcoin Price Hits 5-Month Low; Hut 8 Leads Miner Sell Off appeared first on Investor's Business Daily."
+    },
+    {
+      "id": "9e311fe44d6832d298dce8de",
+      "title": "UBS Says Live Tokenized Fund Transaction Demonstrates Value of Smart Contract-Based Technologies",
+      "url": "https://biztoc.com/x/f407dc541a448cb0",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/950/og.png",
+      "coins": [],
+      "published_at": "2025-11-04T21:12:50Z",
+      "excerpt": "that it completed a live tokenized fund transaction leveraging Chainlink’s Digital Transfer Agent (DTA) technical standard.\n \n \n \n \nThis transaction saw the completion of an on-chain subscription and redemption request of the UBS USD Money Market Investment F…"
+    },
+    {
+      "id": "ffc18e393a3893375acaebca",
+      "title": "Appeals court dubious of FTX founder Bankman-Fried’s conviction challenge",
+      "url": "https://biztoc.com/x/678eb395bed92405",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/678eb395bed92405_s.webp",
+      "coins": [],
+      "published_at": "2025-11-04T21:12:36Z",
+      "excerpt": "The judges in a federal appeals court in New York on Tuesday were skeptical of arguments by a lawyer for Sam Bankman-Fried that his conviction for a multi-billion-dollar fraud related to his cryptocurrency exchange FTX and an associated hedge fund should be t…"
+    },
+    {
+      "id": "a6425c4b4a7c0da6d0b03ceb",
+      "title": "MARA and Hut 8 profits surge in Q3 as Bitcoin reserves grow",
+      "url": "https://cointelegraph.com/news/mara-hut-8-profits-q3-bitcoin-reserves-grow",
+      "source": "newsapi",
+      "source_name": "Cointelegraph",
+      "image_url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-11/019a504a-36e5-7038-b186-3a00b5adc7d4",
+      "coins": [
+        "BTC"
+      ],
+      "published_at": "2025-11-04T21:08:22Z",
+      "excerpt": "MARA and Hut 8 nearly doubled Bitcoin reserves and posted strong Q3 profits, highlighting North America's lead in Bitcoin mining and growing shift toward AI infrastructure."
+    },
+    {
+      "id": "e10a690ff468b115a622acfe",
+      "title": "Solana Company Files Application to Cease to Be a Reporting Issuer in Canada",
+      "url": "https://financialpost.com/globe-newswire/solana-company-files-application-to-cease-to-be-a-reporting-issuer-in-canada",
+      "source": "newsapi",
+      "source_name": "Financial Post",
+      "image_url": null,
+      "coins": [
+        "SOL"
+      ],
+      "published_at": "2025-11-04T21:07:15Z",
+      "excerpt": "NEWTOWN, Pa., Nov. 04, 2025 (GLOBE NEWSWIRE) — Solana Company (NASDAQ: HSDT) (“Solana” or the “Company”) today announced that it has applied to the British Columbia Securities Commission, as principal regulator, and the Ontario Securities Commission, for an o…"
+    },
+    {
+      "id": "6f45a9cfcd7bc24377e8ff7f",
+      "title": "DHS Lies About Detaining/Deporting US Citizens & Trump Reportedly Readying To Attack Venezuela",
+      "url": "https://www.activistpost.com/dhs-lies-about-detaining-deporting-us-citizens-trump-reportedly-readying-to-attack-venezuela/",
+      "source": "newsapi",
+      "source_name": "Activistpost.com",
+      "image_url": "https://www.activistpost.com/wp-content/uploads/2025/11/TDWU-10-31-25-1210x642.jpg.webp",
+      "coins": [],
+      "published_at": "2025-11-04T21:06:00Z",
+      "excerpt": "Welcome to The Daily Wrap Up, an in-depth investigatory show dedicated to bringing you the most relevant independent news, as we see it, from the last 24 hours (10/31/25). As always, take the information discussed in the video below and research it for yourse…"
+    },
+    {
+      "id": "a0f39396d243f444b6b135f7",
+      "title": "Ethereum's Price Crash Sinks Bitmine Immersion Technologies (BMNR) Stock",
+      "url": "https://biztoc.com/x/0683a88cafc07b51",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/0683a88cafc07b51_s.webp",
+      "coins": [
+        "ETH"
+      ],
+      "published_at": "2025-11-04T21:01:27Z",
+      "excerpt": "Bitmine Immersion Technologies Inc (AMEX:BMNR) shares are plummeting on Tuesday afternoon, dragged down by a marked sell-off across the cryptocurrency market. Here’s what investors need to know.\nBMNR is encountering selling pressure. Watch the momentum here.\n…"
+    },
+    {
+      "id": "ff3c03bdb92533f7c8525bcb",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq slide as tech hit on AI valuation fears, bitcoin dips below $100K",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-tech-hit-on-ai-valuation-fears-bitcoin-dips-below-100k-210110391.html",
+      "source": "newsapi",
+      "source_name": "Yahoo Entertainment",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/qRM3_xFkO6eT7x7w0WcqaA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/d5bbd8b0-b844-11f0-bfbf-3a3941e29ddd",
+      "coins": [
+        "BTC"
+      ],
+      "published_at": "2025-11-04T21:01:10Z",
+      "excerpt": "Techs led a sharp retreat as concerns about valuations and the recent rally emerge."
+    },
+    {
+      "id": "7a271e025550a00d29df1a60",
+      "title": "LEEF Brands Reports Third Quarter 2025 Financial Results with Gross Margins More Than Doubling Year-Over-Year",
+      "url": "https://www.globenewswire.com/news-release/2025/11/04/3180814/0/en/LEEF-Brands-Reports-Third-Quarter-2025-Financial-Results-with-Gross-Margins-More-Than-Doubling-Year-Over-Year.html",
+      "source": "newsapi",
+      "source_name": "GlobeNewswire",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/5c2d9556-e9bd-49ce-ac88-d5752dae280f",
+      "coins": [],
+      "published_at": "2025-11-04T21:01:00Z",
+      "excerpt": "LEEF Brands reports Q3 2025 results: revenue up 24%, margins double, cash flow positive, and strong growth from California and New York operations.\n......"
+    },
+    {
+      "id": "2098bea237cfe3ecd3461f6a",
+      "title": "Dogecoin – Here’s why another 20% price correction may be next",
+      "url": "https://ambcrypto.com/dogecoin-heres-why-another-20-price-correction-may-be-next/",
+      "source": "newsapi",
+      "source_name": "Ambcrypto.com",
+      "image_url": "https://ambcrypto.com/wp-content/uploads/2025/11/Dogecoin-Featured-1000x600.webp",
+      "coins": [
+        "BTC",
+        "DOGE"
+      ],
+      "published_at": "2025-11-04T21:00:59Z",
+      "excerpt": "Bearish signals stack up for DOGE as liquidity builds near $0.17."
+    },
+    {
+      "id": "53472f54e8857ad1146c6719",
+      "title": "Bitcoin Liquidity Grabs: Institutions Target Low-Volume Zones To Move BTC Price",
+      "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-liquidity-grabs/",
+      "source": "newsapi",
+      "source_name": "newsBTC",
+      "image_url": "https://www.newsbtc.com/wp-content/uploads/2025/11/Bitcoin-from-Pixabay-13.jpg?fit=1280%2C898",
+      "coins": [
+        "BTC"
+      ],
+      "published_at": "2025-11-04T21:00:15Z",
+      "excerpt": "In the dynamic and often opaque world of Bitcoin trading, institutional traders are operating with a fundamentally different playbook. These players are actively hunting for low-volume areas and under-traded levels, seeing them as strategic advantages for max…"
+    },
+    {
+      "id": "e02b1985b87f57cd416ca4f6",
+      "title": "Bitcoin Flows To Binance As Other Exchanges Witness Accelerated Withdrawals – What This Means",
+      "url": "https://bitcoinist.com/bitcoin-flows-to-binance/",
+      "source": "newsapi",
+      "source_name": "Bitcoinist",
+      "image_url": "https://bitcoinist.com/wp-content/uploads/2025/11/Bitcoin-chart-from-Pixabay-112.webp",
+      "coins": [
+        "BTC"
+      ],
+      "published_at": "2025-11-04T21:00:02Z",
+      "excerpt": "In recent market trends, there has been a significant withdrawal of Bitcoin from crypto exchanges or centralized exchanges, even as the price of BTC struggles with heightened volatility. However, this is not the case for investors on the Binance platform. On-…"
+    },
+    {
+      "id": "c3fda72fca4867998b4c118d",
+      "title": "ethereum-execution 2.18.0rc6.dev2",
+      "url": "https://pypi.org/project/ethereum-execution/2.18.0rc6.dev2/",
+      "source": "newsapi",
+      "source_name": "Pypi.org",
+      "image_url": null,
+      "coins": [
+        "ETH"
+      ],
+      "published_at": "2025-11-04T20:59:57Z",
+      "excerpt": "Ethereum execution layer specification, provided as a Python package for tooling and testing"
+    },
+    {
+      "id": "1db47d41b86243f104657baf",
+      "title": "Exclusive — Sen. Marsha Blackburn: Google Like a 'Disobedient Child' Pushing to Censor Conservatives",
+      "url": "https://www.breitbart.com/politics/2025/11/04/exclusive-sen-marsha-blackburn-google-like-a-disobedient-child-pushing-to-censor-conservatives/",
+      "source": "newsapi",
+      "source_name": "Breitbart News",
+      "image_url": "https://media.breitbart.com/media/2025/11/GettyImages-2228407074-640x335.png",
+      "coins": [],
+      "published_at": "2025-11-04T20:57:52Z",
+      "excerpt": "Sen. Marsha Blackburn (R-TN) on Tuesday said that Google is similar to a \"disobedient child\" that constantly pushes for more censorship and bias against conservatives despite the backlash against the big tech platform.\nThe post Exclusive — Sen. Marsha Blackbu…"
+    },
+    {
+      "id": "d1422c429b7d486ce482b1d3",
+      "title": "Ferrari Aims at AI Generation With Crypto Auction For Le Mans Car",
+      "url": "https://tech.slashdot.org/story/25/11/04/1935209/ferrari-aims-at-ai-generation-with-crypto-auction-for-le-mans-car",
+      "source": "newsapi",
+      "source_name": "Slashdot.org",
+      "image_url": "https://a.fsdn.com/sd/topics/transportation_64.png",
+      "coins": [],
+      "published_at": "2025-11-04T20:51:00Z",
+      "excerpt": "Ferrari is tapping into crypto markets and tech-rich youngsters with a planned new digital token that its wealthiest fans will be able to use in an auction for a Ferrari 499P, the endurance car that won three straight Le Mans titles. From a report: The plan f…"
+    },
+    {
+      "id": "1acb0dc254bde166cbc38b5c",
+      "title": "Pay3 Recruits AI Agents to Conduct Stablecoin Transactions",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2025/pay3-recruits-ai-agents-to-conduct-stablecoin-transactions/",
+      "source": "newsapi",
+      "source_name": "pymnts.com",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2025/11/agentic-ai-artificial-intelligence-cryptocurrency-stablecoin-agentic-payments-pay3.jpg?w=457",
+      "coins": [],
+      "published_at": "2025-11-04T20:49:06Z",
+      "excerpt": "Stablecoin payment platform Pay3 is the latest company to embrace agentic AI. The company on Tuesday (Nov. 4) unveiled its Agentic Payments Platform, designed to allow artificial intelligence (AI) agents to autonomously “execute and optimize” financial transa…"
+    },
+    {
+      "id": "834f2b18ec869f6e56884879",
+      "title": "Bitcoin Price Falls Below $100K. Why the Crypto Is Dropping Today",
+      "url": "https://biztoc.com/x/ed6fa0d7ed98c855",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/950/og.png",
+      "coins": [
+        "BTC"
+      ],
+      "published_at": "2025-11-04T20:39:55Z",
+      "excerpt": ""
+    },
+    {
+      "id": "44b0a8f3abbfc17aa4f58532",
+      "title": "Bitcoin slips below $100K for first time since June. Where it may be going next",
+      "url": "https://biztoc.com/x/8fbfcf66e9964d64",
+      "source": "newsapi",
+      "source_name": "Biztoc.com",
+      "image_url": "https://biztoc.com/cdn/950/og.png",
+      "coins": [
+        "BTC"
+      ],
+      "published_at": "2025-11-04T20:39:37Z",
+      "excerpt": ""
+    },
+    {
+      "id": "56eb9102c39e99e639da9b4e",
+      "title": "Sequoia names Alfred Lin and Pat Grady as new Co-Stewards as Roelof Botha steps down | TechCrunch",
+      "url": "https://techcrunch.com/2025/11/04/sequoia-names-alfred-lin-and-pat-grady-as-new-co-stewards-as-roelof-botha-steps-down/",
+      "source": "newsapi",
+      "source_name": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
+      "coins": [],
+      "published_at": "2025-11-04T20:36:49Z",
+      "excerpt": "Just over three years after taking the reins as the steward of the storied firm, Botha passed the leadership baton to Lin and Grady."
+    },
+    {
+      "id": "dd686db61541fd82d5e1c68d",
+      "title": "Mostbet Online Casino Magyarország: Hivatalos Kriptó Gaming Platform",
+      "url": "https://line25.com/articles/mostbet-online-casino-magyarorszag-hivatalos-kripto-gaming-platform/",
+      "source": "newsapi",
+      "source_name": "Line25.com",
+      "image_url": null,
+      "coins": [],
+      "published_at": "2025-11-04T20:36:31Z",
+      "excerpt": "Mostbet Bangladesh Bd ️ Established Site Most Guess Casino And Game Betting” Content Bónuszok És Promóciók A Most Wager Casino Hungary Oldalán Mostbet Bd (bangladesh) – Official Money Betting ... Read More →\nThe post Mostbet Online Casino Magyarország: Hivata…"
+    },
+    {
+      "id": "59a3a78fd01ce7f6677bb70e",
+      "title": "Bitcoin breaches $100,000 as selling pressure mounts, government shutdown 'stalls' tailwinds",
+      "url": "https://finance.yahoo.com/news/bitcoin-breaches-100000-as-selling-pressure-mounts-government-shutdown-stalls-tailwinds-203605548.html",
+      "source": "newsapi",
+      "source_name": "Yahoo Entertainment",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/AO5RBYMomqyFL4Z2L01Xmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMDcx/https://s.yimg.com/os/creatr-uploaded-images/2022-06/1701f760-eb3d-11ec-9fcd-fda7580ab069",
+      "coins": [
+        "BTC"
+      ],
+      "published_at": "2025-11-04T20:36:05Z",
+      "excerpt": "Bitcoin briefly dropped below $100,000 on Tuesday as investor concerns over the government shutdown and slowing economic growth led to heavy selling of the..."
+    },
+    {
+      "id": "1a5e0b638791d3804de8169f",
+      "title": "Sam Bankman-Fried Wants Another Trial, But His Lawyer Faces Skepticism",
+      "url": "https://decrypt.co/347324/sam-bankman-fried-wants-another-trial-lawyer-skepticism",
+      "source": "newsapi",
+      "source_name": "Decrypt",
+      "image_url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/SBF-DecryptStyle2-scaled-gID_7.jpg",
+      "coins": [],
+      "published_at": "2025-11-04T20:29:29Z",
+      "excerpt": "An appeals court did not appear to embrace arguments made by Sam Bankman-Fried's lawyer as to why his 25-year sentence should be overturned."
+    },
+    {
+      "id": "e13614078bc2e8183ffb2dd0",
+      "title": "Bitcoin Falls Below $100,000—Here’s Why Crypto Prices May Be Dropping",
+      "url": "https://www.forbes.com/sites/tylerroush/2025/11/04/bitcoin-falls-below-100000-heres-why-crypto-prices-may-be-dropping/",
       "source": "newsapi",
       "source_name": "Forbes",
       "image_url": "https://imageio.forbes.com/specials-images/imageserve/690a1476a5f3a011ce728951/0x0.jpg?format=jpg&crop=2568,1444,x0,y48,safe&height=900&width=1600&fit=bounds",
       "coins": [
         "BTC"
       ],
-      "published_at": "2025-11-04T14:58:47Z",
+      "published_at": "2025-11-04T20:29:20Z",
       "excerpt": "The leading cryptocurrency has pared back historical gains in recent weeks."
-    },
-    {
-      "id": "ff65f47f29ffa0ac6393edf6",
-      "title": "Bitcoin miner turns AI cloud contender",
-      "url": "https://biztoc.com/x/8b1fe996d682f2bf",
-      "source": "newsapi",
-      "source_name": "Biztoc.com",
-      "image_url": "https://biztoc.com/cdn/8b1fe996d682f2bf_s.webp",
-      "coins": [
-        "BTC"
-      ],
-      "published_at": "2025-11-04T14:57:33Z",
-      "excerpt": "IREN Limited, an Australian company once best known for its Bitcoin mining operations, is now emerging as a rising player in the AI compute infrastructure sector.\nOn Monday, November 3, the company's stock surged 9% in early trading, extending an extraordinar…"
-    },
-    {
-      "id": "8f7433d5ca42c07160b619c7",
-      "title": "MARA Holdings Outlines AI and Energy Shift with MPLX LOI; Q3 Results Impress",
-      "url": "https://www.coindesk.com/markets/2025/11/04/mara-outlines-ai-and-energy-shift-with-mplx-loi-q3-results-impress",
-      "source": "newsapi",
-      "source_name": "CoinDesk",
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/756af48ce44d1f3c565e79176cfbfe217549c725-1440x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "coins": [],
-      "published_at": "2025-11-04T14:49:06Z",
-      "excerpt": "MPLX will supply natural gas from its Delaware Basin processing plants to MARA’s planned gas-fired power facilities."
-    },
-    {
-      "id": "d3c515dc8af020166fc760c3",
-      "title": "S&P 500, Nasdaq Slip Over 1% As AI Darling Palantir Posts Weak Earnings",
-      "url": "https://www.ndtvprofit.com/markets/us-markets-today-sp-500-nasdaq-slip-over-1-as-ai-darling-palantir-slumps-on-valuation-concerns",
-      "source": "newsapi",
-      "source_name": "Ndtvprofit.com",
-      "image_url": "https://media.assettype.com/bloombergquint%2F2025-09-19%2Fmmghh28f%2Faditya-vyas-mHdATQY9fIU-unsplash-1.jpg?rect=0%2C0%2C5081%2C2668&w=1200&auto=format%2Ccompress&ogImage=true",
-      "coins": [],
-      "published_at": "2025-11-04T14:47:58Z",
-      "excerpt": "The major US stock market indices opened in the red on Tuesday after AI giant Palantir Technologies Inc.'s earnings failed to make a positive impact."
-    },
-    {
-      "id": "dcbc3d2d10445448de6ded75",
-      "title": "Donald Trump Says China 'Is Getting Big Into Crypto Right Now'—But Is That True?",
-      "url": "https://biztoc.com/x/378e1e6e312561b1",
-      "source": "newsapi",
-      "source_name": "Biztoc.com",
-      "image_url": "https://biztoc.com/cdn/378e1e6e312561b1_s.webp",
-      "coins": [],
-      "published_at": "2025-11-04T14:46:32Z",
-      "excerpt": "President Donald Trump said he wants to ensure the United States remains the world leader in crypto, warning that China is trying to seize control of the industry.\nTrump Says U.S. Must Stay Ahead of China\nIn an interview on CBS on Sunday, Trump said crypto ha…"
-    },
-    {
-      "id": "7636119c4ecbd1d58155bd03",
-      "title": "CleanSpark's CEO Just Revealed Why Bitcoin Miners Are Secretly Positioned to Win the AI Power War",
-      "url": "https://biztoc.com/x/2a9225aae765d446",
-      "source": "newsapi",
-      "source_name": "Biztoc.com",
-      "image_url": "https://biztoc.com/cdn/2a9225aae765d446_s.webp",
-      "coins": [
-        "BTC"
-      ],
-      "published_at": "2025-11-04T14:46:26Z",
-      "excerpt": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nThe billion-dollar question facing every hyperscaler rushing to build AI infrastructure isn’t about chips or capital—it’s about something far more mundane: pl…"
-    },
-    {
-      "id": "414ab6681e99163e89d2538e",
-      "title": "Bitcoin Falls To Lowest Since June As Risk-Off Mood Hits Crypto",
-      "url": "https://www.ndtvprofit.com/markets/cryptocurrency-bitcoin-falls-to-lowest-since-june-as-risk-off-mood-hits-crypto",
-      "source": "newsapi",
-      "source_name": "Ndtvprofit.com",
-      "image_url": "https://media.assettype.com/bloombergquint%2F2025-11-04%2Fmc7qql0e%2F443501988.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-      "coins": [
-        "BTC"
-      ],
-      "published_at": "2025-11-04T14:46:25Z",
-      "excerpt": "Bitcoin has wiped out its summer rally, giving back gains made during Wall Street’s euphoric embrace and a surge in institutional buying. The original cryptocurrency fell as much as 3.1% to $103,539 as on Tuesday morning in New York, the lowest level since Ju…"
-    },
-    {
-      "id": "d0bf91201182e20c4bddd40c",
-      "title": "Bankman-Fried lawyers to argue before court today, seeking retrial over FTX fraud conviction",
-      "url": "https://cryptobriefing.com/ftx-bankman-fried-appeal-prison-sentence/",
-      "source": "newsapi",
-      "source_name": "Crypto Briefing",
-      "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2025/11/04094544/82537d1b-725c-441a-aaa3-47e64e30f418-800x420.jpg",
-      "coins": [],
-      "published_at": "2025-11-04T14:46:13Z",
-      "excerpt": "The appeal could impact legal precedents in financial fraud cases and influence future regulatory measures in the cryptocurrency sector.\nThe post Bankman-Fried lawyers to argue before court today, seeking retrial over FTX fraud conviction appeared first on Cr…"
-    },
-    {
-      "id": "29aa06fc0957dd149e9e6e41",
-      "title": "Cathie Wood buys $12 million of Peter Thiel backed crypto stock",
-      "url": "https://biztoc.com/x/10b5c272c58c073e",
-      "source": "newsapi",
-      "source_name": "Biztoc.com",
-      "image_url": "https://biztoc.com/cdn/950/og.png",
-      "coins": [],
-      "published_at": "2025-11-04T14:46:01Z",
-      "excerpt": ""
-    },
-    {
-      "id": "535e8c57800e68ec183822d1",
-      "title": "Balancer dips below daily resistance level, eyes April 8 low",
-      "url": "https://coinjournal.net/news/balancer-dips-below-daily-resistance-level-eyes-april-8-low/",
-      "source": "newsapi",
-      "source_name": "Coinjournal.net",
-      "image_url": "https://coinjournal.net/wp-content/uploads/2025/05/ach-price-risk-sell-off.png",
-      "coins": [],
-      "published_at": "2025-11-04T14:45:16Z",
-      "excerpt": "Key takeaways BAL is down 12% in the last 24 hours and has dropped below $0.9. The coin could retest the April 8 low of $0.739 if the bearish trend persists. BAL sinks below $0.85 following Balancer hack BAL, the native coin of the Balancer platform, has lost…"
-    },
-    {
-      "id": "d85b647f458219ee4d8ac78b",
-      "title": "Ripple Acquires Wallet Tech Firm Palisade To Enhance Its Institutional Custody And Payments Business",
-      "url": "https://zycrypto.com/ripple-acquires-wallet-tech-firm-palisade-to-enhance-its-institutional-custody-and-payments-business/",
-      "source": "newsapi",
-      "source_name": "ZyCrypto",
-      "image_url": "https://zycrypto.com/wp-content/uploads/2025/01/Ripples-RLUSD-Eyes-Multi-Billion-Dollar-USDT-European-Market-Following-Regulatory-Debacle.jpg",
-      "coins": [
-        "XRP"
-      ],
-      "published_at": "2025-11-04T14:45:14Z",
-      "excerpt": "Ripple’s extremely impressive mega-purchases streak continued on Monday with the company acquiring crypto wallet technology firm Palisade."
-    },
-    {
-      "id": "2a3f61f390f9ee66706138d7",
-      "title": "Bitcoin OG Whale Who Perfectly Called October Crash Now Holds $55 Million In BTC, Ether Long Positions",
-      "url": "https://zycrypto.com/bitcoin-og-whale-who-perfectly-called-october-crash-now-holds-55-million-in-btc-ether-long-positions/",
-      "source": "newsapi",
-      "source_name": "ZyCrypto",
-      "image_url": "https://zycrypto.com/wp-content/uploads/2021/03/Why-Whales-Movements-Have-Yet-to-Fully-Reflect-on-Bitcoins-Price-Action.jpg",
-      "coins": [
-        "BTC",
-        "ETH"
-      ],
-      "published_at": "2025-11-04T14:40:53Z",
-      "excerpt": "A legendary Bitcoin whale who earned $200 million by shorting Bitcoin just before the October flash crash is now betting on a recovery in Bitcoin and Ether."
-    },
-    {
-      "id": "038b13b4a7409e7c27be7a23",
-      "title": "The Gold and Silver of New Orleans",
-      "url": "https://dailyreckoning.com/the-gold-and-silver-of-new-orleans/",
-      "source": "newsapi",
-      "source_name": "Dailyreckoning.com",
-      "image_url": "https://dailyreckoning.com/wp-content/uploads/2025/11/mr-11-04-25-img-1.png",
-      "coins": [],
-      "published_at": "2025-11-04T14:40:11Z",
-      "excerpt": "This post The Gold and Silver of New Orleans appeared first on Daily Reckoning.\nGreetings from New Orleans. I’m here for the 51st annual Investment Conference, formerly called the Gold Conference, founded half a century ago by the late Jim Blanchard. If you o…"
-    },
-    {
-      "id": "5990f85cdd14abf6e8f30c04",
-      "title": "Mortgage rates & refinance rates today: 30-year fixed rises to 6.12% as treasury yields climb - experts warn relief may not come until 2026",
-      "url": "https://economictimes.indiatimes.com/news/international/us/mortgages-rates-today-refinance-interest-rates-tuesday-november-4-2025-0-year-fixed-rises-to-6-12-as-treasury-yields-climb-experts-warn-relief-may-not-come-until-2026/articleshow/125089234.cms",
-      "source": "newsapi",
-      "source_name": "The Times of India",
-      "image_url": "https://img.etimg.com/thumb/msid-125090038,width-1200,height-630,imgsize-46180,overlay-economictimes/articleshow.jpg",
-      "coins": [],
-      "published_at": "2025-11-04T14:39:36Z",
-      "excerpt": "Mortgage rates today November 4: Borrowing costs for home loans are climbing again. The average 30-year fixed mortgage rate has risen to 6.12 percent. This upward trend is linked to increasing 10-year Treasury yields. Refinance rates have also seen a slight i…"
     }
   ]
 }
