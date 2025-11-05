@@ -1,16 +1,16 @@
-# Crypto Trade Journal
+Crypto Trade Journal
 
 A custom-built crypto trading journal created to track my own trades and performance more effectively than existing platforms.
 
----
 
-## 📸 Preview
+
+ Preview
 
 ![App Screenshot](Crypto-Trade-Journal_Dash.png)
 
----
 
-## 🔧 Built With
+
+Built With
 
 - React
 - Node.js
@@ -21,15 +21,15 @@ A custom-built crypto trading journal created to track my own trades and perform
 - Vite
 - worker.mjs
 
----
 
-## 💡 Why I Built It
+
+ Why I am Building It
 
 As an active trader, I found most tracking apps lacked the simplicity and flexibility I needed. So I started building my own, a platform that fits my trading workflow, expands my full-stack skills, and showcases my ability to ship and learn independently.
 
----
 
-## 🚀 Features (live or in progress)
+
+ Features ( So Far ! ) 
 
 - Live crypto price ticker
 - Real-time crypto news integration
@@ -37,10 +37,10 @@ As an active trader, I found most tracking apps lacked the simplicity and flexib
 - Portfolio snapshot and journal overview
 - SQL-based logging system for trade entries (in development)
 
----
 
-## ⚙️ Local Setup
 
-```bash
+Local Setup
+
+bash
 npm install
 npm run dev
