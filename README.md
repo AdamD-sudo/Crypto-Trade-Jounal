@@ -25,7 +25,7 @@ A custom-built crypto trading journal created to track my own trades and perform
 
 ## 💡 Why I Built It
 
-As an active trader, I found most tracking apps lacked the simplicity and flexibility I needed. So I started building my own — a platform that fits my trading workflow, expands my full-stack skills, and showcases my ability to ship and learn independently.
+As an active trader, I found most tracking apps lacked the simplicity and flexibility I needed. So I started building my own, a platform that fits my trading workflow, expands my full-stack skills, and showcases my ability to ship and learn independently.
 
 ---
 
